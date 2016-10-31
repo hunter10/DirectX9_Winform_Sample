@@ -7,3 +7,5 @@
 
 MSDN에서는 ".NET Framework 2.0 런타임 정품 인증 정책을 활성화할지 또는 .NET Framework 4 정품 인증 정책을 사용할지 여부를 지정합니다."
 라고 써있는데 한마디로 옛날 기술 쓰려면 코드가 있어야 한다는 소리.
+
+Windows10 환경에서 Visual Studio 2015으로 DirectX쓰려니 이런 사단이 난듯....
