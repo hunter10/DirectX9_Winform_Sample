@@ -14,4 +14,4 @@ Windows10 환경에서 Visual Studio 2015으로 DirectX쓰려니 이런 사단�
 ![석촌호수 러버덕] (https://cloud.githubusercontent.com/assets/12135142/20792433/07d1fc66-b805-11e6-8728-241ba2701dad.png)
 
 빌드할때 LoaderLock관련 에러가 난다면 아래화면과 같이 처리
-![석촌호수 러버덕] (http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0)
+![ScreenShot] (https://cloud.githubusercontent.com/assets/12135142/20792433/07d1fc66-b805-11e6-8728-241ba2701dad.png)
