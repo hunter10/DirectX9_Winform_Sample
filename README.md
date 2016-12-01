@@ -11,7 +11,7 @@ MSDN에서는 ".NET Framework 2.0 런타임 정품 인증 정책을 활성화할
 Windows10 환경에서 Visual Studio 2015으로 DirectX쓰려니 이런 사단이 난듯....
 
 비주얼 스튜디오가 다이렉트X 세팅이 안되어 있다면 아래화면과 같이 처리되어야 함
-http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0
+![석촌호수 러버덕] http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0
 
 빌드할때 LoaderLock관련 에러가 난다면 아래화면과 같이 처리
 이미지추가
