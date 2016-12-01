@@ -13,7 +13,7 @@ Windows10 환경에서 Visual Studio 2015으로 DirectX쓰려니 이런 사단�
 비주얼 스튜디오가 다이렉트X 세팅이 안되어 있다면 아래화면과 같이 처리되어야 함
 ![ScreenShot1] (https://cloud.githubusercontent.com/assets/12135142/20792434/0a3f0a2a-b805-11e6-8731-8420e4a3af87.PNG)
 
-
+---
 
 빌드할때 LoaderLock관련 에러가 난다면 아래화면과 같이 처리
 ![ScreenShot0] (https://cloud.githubusercontent.com/assets/12135142/20792433/07d1fc66-b805-11e6-8728-241ba2701dad.png)
